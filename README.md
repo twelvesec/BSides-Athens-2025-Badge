@@ -2,6 +2,9 @@
 
 Welcome to the **TwelveSec Firmware Extraction Workshop** presented at **BSides Athens 2025**! This hands-on session teaches participants how to extract firmware from embedded devices for security research and analysis.
 
+
+![img](https://github.com/twelvesec/BSides-Athens-2025-Badge/blob/main/res/badge.gif?raw=true)
+
 ## 📚 Workshop Overview
 
 This repository contains instructions, tools, and references for:
