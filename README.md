@@ -132,7 +132,3 @@ Check out our hardware hacking tools and other resources:
 
 **Presented by [TwelveSec](https://www.twelvesec.com/)** – Offensive Security Experts  
 Questions? Open an issue or start a discussion right here on GitHub!
-
----
-
-Let me know if you'd like it formatted for GitHub with headings or badges.
