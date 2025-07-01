@@ -13,14 +13,14 @@ This repository contains instructions, tools, and references for:
     
 - Dumping firmware from ATmega microcontrollers
     
-- Analyzing firmware with tools like AVRDUDE, `strings`, and Ghidra
+- Analyzing firmware with tools like [AVRDUDE](https://github.com/avrdudes/avrdude), `strings`, and [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
     
 
 ## 🧰 Requirements
 
 - Arduino Nano
     
-- Target device (e.g., ATmega168 or compatible)
+- Target device (e.g., _ATmega168_ or compatible)
     
 - Jumper wires
     
