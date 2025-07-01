@@ -32,6 +32,13 @@ This repository contains instructions, tools, and references for:
         
     - Ghidra
         
+## Want to Order and Build Your Badge?
+
+If you're interested in ordering and building your own badge, be sure to check out the instructions provided in our related project:
+
+👉 [PwnPad on GitHub](https://github.com/twelvesec/PwnPad)
+
+There you'll find detailed guidance on assembling your badge, and getting everything up and running.
 
 ---
 
